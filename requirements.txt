@@ -1,0 +1,6 @@
+torch
+transformers
+simpletransformers
+matplotlib
+seaborn
+plotly
